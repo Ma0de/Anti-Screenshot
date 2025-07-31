@@ -1,7 +1,7 @@
 # Anti-Screenshot
 Call the Windows API SetWindowDisplayAffinity to block the Snipping Tool
 
-https://img.shields.io/badge/License-MIT-blue.svg
+![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 # 🔍 Overview
 This project implements window-level screenshot protection by using the Windows API SetWindowDisplayAffinity to exclude a specific window from screen captures. When enabled:
